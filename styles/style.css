@@ -1,0 +1,15 @@
+#hitButton {
+  display: block;
+  width: 300px;
+  text-align: center;
+  font-size: 40px;
+  text-decoration: none;
+  color: white;
+  padding: 30px;
+  background-color: #010101;
+  border-radius: 10px;
+}
+
+#result {
+  font-size: 2em;
+}
